@@ -1,0 +1,223 @@
+       <style type="text/css">
+        .menutab{
+            margin-top:30px;
+            text-align: left;
+            font-family: 'Microsoft YaHei Light', 'STHeiti';
+            font-size: 16px;
+        }
+         
+
+        .menutab-list{
+            font-size: 14px;
+            text-align: center;
+            color: rgb(121,138,160);
+            font-weight:bold;
+            margin-top:30px;
+        }
+
+        .menutab-list2{
+            font-size: 14px;
+            text-align: center;
+            color: rgb(121,138,160);
+            font-weight:bold;
+            margin-top:0px;
+        }
+        
+
+
+        .scorlling-box{
+            overflow-y:auto;
+            overflow-x: hidden;
+            position:absolute;
+            right:0;
+            top:0;
+            left: 0;
+        }
+        
+        #home{
+            background-image: url(img/background.jpg);
+            background-repeat: no-repeat;
+
+         }     
+
+        #SERVICES{
+            background-color: rgb(255,255,255);
+            margin-top:25px;
+            margin-bottom: 15px;
+            height: 800px;
+        }
+
+        #CASE{
+            background-color: rgb(47,123,209);
+            margin-top:25px;
+            margin-bottom: 15px;
+            height: 900px;
+        }
+
+        #ABOUT_US{
+            background-color: rgb(255,255,255);
+            height: 600px;
+        }
+
+        /*.shadow{
+            height: 2px;
+            width: 1400px;
+            background-color: rgb(109,125,161);
+        }*/
+
+        .logo{
+            background: none;
+            text-indent: 35px;
+        }
+
+        #home-top{
+             height: 100px;
+             width: 1400px;
+             border: 2px;
+        }
+
+        .biaoti1{
+            text-align: center;
+            color: rgb(245,134,52);
+            font-weight:bold;
+            font-family:  'Microsoft YaHei Light', 'STHeiti';
+            font-size: 48px;
+            margin-top: 25px;
+        }
+        .biaoti2{
+            text-align: center;
+            color: rgb(142,144,146);
+            margin-top:0; 
+           font-family: 'Microsoft YaHei Light', 'STHeiti';
+           font-size: 30px;
+        }
+
+        .row a:hover{
+              color: rgb(255,255,255);
+        }
+        
+        .row{
+            margin-top: 20px;
+        }
+        p{
+            text-align: center;
+            font-size: 32px;
+            color: rgb(121,138,160);
+            font-family: 'Microsoft YaHei',Arial , 'STHeiti';
+        }
+        p.content {
+             color: rgb(255,255,255);
+             font-size: 28px;
+        }
+        p.about{
+            font-size: 28px;
+            color: rgb(121,138,160);
+        }
+        p.about2{
+            font-size: 18px;
+            color: rgb(121,138,160);
+        }
+
+        .case{
+            text-align: center;
+            color: rgb(255,255,255);
+            font-size: 30px;
+           font-family: 'Microsoft YaHei Light',Arial , 'STHeiti';
+           margin-top: 0;
+        }
+        .box {
+            background-color: rgb(255,255,255);
+            height: 150px;
+            margin-right: 8px;
+        }
+
+        .box2 {
+            background-color: rgb(255,255,255);
+            height: 150px;
+            margin-right: 8px;
+            margin-top: 5px;
+        }
+
+        .box3 {
+            background-color: rgb(255,198,87);
+            height: 100px;
+            width: 150px;
+            margin-right: 8px;
+            margin-top: 5px;
+        }
+
+        input{
+            background-color: rgb(255,255,255);
+            height: 30px;
+            width: 80px;
+            text-align: center;
+            font-size: 20px;
+            color: rgb(47,123,209);
+        }
+
+        #footer{
+            background-color: rgb(60,60,60);
+            margin-top:100px;
+        }
+        #ft-lnks{
+            color: rgb(86,86,86);
+            margin-top:10px;
+        }
+        #details{
+            color: rgb(255,255,255);
+            margin-top:5px;
+        }
+        #copyright{
+            color: rgb(255,255,255);
+            margin-top:10px;
+        }
+
+        #dibu{
+            color: rgb(255,255,255);
+            margin-top:15px;
+        }
+        
+        .bottom{
+            border-style: solid;
+        }
+        .icondetail{
+            color: rgb(86,86,86);
+            font-size: 32px;
+            text-indent: 40px;
+        }
+
+        .iconcontent{
+            color: rgb(132,134,136);
+            font-size: 18px;
+            text-align: left;
+        }
+
+        p.iconcontent {
+            color: rgb(132,134,136);
+            font-size: 18px;
+            text-align: left;
+            margin-top: 15px;
+        }
+
+        .more{
+            margin-top:30px;
+
+        }
+
+        .icon{
+            margin-top:50px; 
+        }
+        .mydiv{
+               width:100%;
+               border:#909090 2px solid;
+               background:none;
+               box-shadow:4px 4px 20px  rgb(42,70,103);
+       }
+
+       .us{
+        margin-top: 100px;
+       }
+
+
+}
+</style>
